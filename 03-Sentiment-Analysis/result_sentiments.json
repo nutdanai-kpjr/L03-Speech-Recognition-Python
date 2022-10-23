@@ -1,0 +1,1362 @@
+[
+    {
+        "text": "Alright, welcome back.",
+        "start": 162,
+        "end": 1192,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8524826169013977,
+        "speaker": null
+    },
+    {
+        "text": "Tag lead here.",
+        "start": 1240,
+        "end": 2287,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7161759734153748,
+        "speaker": null
+    },
+    {
+        "text": "Now, Apple apparently announced some new things today.",
+        "start": 2425,
+        "end": 5572,
+        "sentiment": "POSITIVE",
+        "confidence": 0.937150239944458,
+        "speaker": null
+    },
+    {
+        "text": "Apple, yeah.",
+        "start": 5680,
+        "end": 6547,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5169539451599121,
+        "speaker": null
+    },
+    {
+        "text": "Oh yeah.",
+        "start": 6580,
+        "end": 7042,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5364590287208557,
+        "speaker": null
+    },
+    {
+        "text": "Apple.",
+        "start": 7090,
+        "end": 7422,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5853315591812134,
+        "speaker": null
+    },
+    {
+        "text": "They announced some new toys for us.",
+        "start": 7467,
+        "end": 9322,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8024824857711792,
+        "speaker": null
+    },
+    {
+        "text": "Apple.",
+        "start": 9355,
+        "end": 9672,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5853315591812134,
+        "speaker": null
+    },
+    {
+        "text": "Very exciting, very cool stuff.",
+        "start": 9717,
+        "end": 11047,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9850039482116699,
+        "speaker": null
+    },
+    {
+        "text": "And I wanted to give you my reaction on what Apple did for us today.",
+        "start": 11080,
+        "end": 15937,
+        "sentiment": "POSITIVE",
+        "confidence": 0.812760591506958,
+        "speaker": null
+    },
+    {
+        "text": "So let's see, what did they announce today?",
+        "start": 16075,
+        "end": 18200,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.9152882695198059,
+        "speaker": null
+    },
+    {
+        "text": "Skipped out on the whole entire event this morning.",
+        "start": 18787,
+        "end": 20962,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6689667105674744,
+        "speaker": null
+    },
+    {
+        "text": "Missed the livestream.",
+        "start": 21025,
+        "end": 21897,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.7689881324768066,
+        "speaker": null
+    },
+    {
+        "text": "Just, I don't know, couldn't be bothered to pay attention to it.",
+        "start": 21942,
+        "end": 24682,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.8945522308349609,
+        "speaker": null
+    },
+    {
+        "text": "But let's see.",
+        "start": 24685,
+        "end": 25447,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6506088376045227,
+        "speaker": null
+    },
+    {
+        "text": "Now for the highlights.",
+        "start": 25480,
+        "end": 26352,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6892892718315125,
+        "speaker": null
+    },
+    {
+        "text": "They announced some iPhone 13 Apple watch.",
+        "start": 26382,
+        "end": 29782,
+        "sentiment": "POSITIVE",
+        "confidence": 0.842896580696106,
+        "speaker": null
+    },
+    {
+        "text": "iPad Mini.",
+        "start": 29860,
+        "end": 31187,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.736525297164917,
+        "speaker": null
+    },
+    {
+        "text": "Do you really want me to talk about this?",
+        "start": 32887,
+        "end": 34792,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.637625515460968,
+        "speaker": null
+    },
+    {
+        "text": "Like, iPhone 13 Prolet has been around for a while, you guys.",
+        "start": 34840,
+        "end": 41167,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5216260552406311,
+        "speaker": null
+    },
+    {
+        "text": "By the way, where am I today?",
+        "start": 41290,
+        "end": 42667,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8885341286659241,
+        "speaker": null
+    },
+    {
+        "text": "You may have noticed the new background.",
+        "start": 42715,
+        "end": 44322,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8645707368850708,
+        "speaker": null
+    },
+    {
+        "text": "It's a green screen.",
+        "start": 44367,
+        "end": 45397,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.727210283279419,
+        "speaker": null
+    },
+    {
+        "text": "It's all green screen.",
+        "start": 45505,
+        "end": 46567,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7180839776992798,
+        "speaker": null
+    },
+    {
+        "text": "That's what's new these days.",
+        "start": 46615,
+        "end": 47917,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7105920910835266,
+        "speaker": null
+    },
+    {
+        "text": "The only thing that's real in this backdrop is this chair.",
+        "start": 47965,
+        "end": 51222,
+        "sentiment": "POSITIVE",
+        "confidence": 0.5304211378097534,
+        "speaker": null
+    },
+    {
+        "text": "Maybe this wall.",
+        "start": 51417,
+        "end": 52522,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.75999915599823,
+        "speaker": null
+    },
+    {
+        "text": "OK, so where were we?",
+        "start": 52630,
+        "end": 53602,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8149480819702148,
+        "speaker": null
+    },
+    {
+        "text": "Let's get back into this apple Watch.",
+        "start": 53620,
+        "end": 55775,
+        "sentiment": "POSITIVE",
+        "confidence": 0.83438640832901,
+        "speaker": null
+    },
+    {
+        "text": "I don't care about Apple watch.",
+        "start": 58387,
+        "end": 60022,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5036368370056152,
+        "speaker": null
+    },
+    {
+        "text": "iPad Mini I mean, maybe a 13 Bionic chip.",
+        "start": 60130,
+        "end": 65612,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.704414427280426,
+        "speaker": null
+    },
+    {
+        "text": "I don't know you guys, it's just another phone.",
+        "start": 65962,
+        "end": 68257,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5595096945762634,
+        "speaker": null
+    },
+    {
+        "text": "My phone works fine, right?",
+        "start": 68335,
+        "end": 69967,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8612008690834045,
+        "speaker": null
+    },
+    {
+        "text": "Like if you want a good camera, just use a DSLR camera.",
+        "start": 70015,
+        "end": 73197,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5716246962547302,
+        "speaker": null
+    },
+    {
+        "text": "Like your phone's camera is not going to beat your DSLR camera.",
+        "start": 73242,
+        "end": 76587,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5555400252342224,
+        "speaker": null
+    },
+    {
+        "text": "Do you need to improve your phone?",
+        "start": 76662,
+        "end": 78292,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8041560649871826,
+        "speaker": null
+    },
+    {
+        "text": "Is your call quality not good enough?",
+        "start": 78490,
+        "end": 80962,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.7789639234542847,
+        "speaker": null
+    },
+    {
+        "text": "Is your Facebook app not loading fast enough?",
+        "start": 81025,
+        "end": 83197,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.5800886750221252,
+        "speaker": null
+    },
+    {
+        "text": "Are your YouTube videos not playing fast enough?",
+        "start": 83230,
+        "end": 85642,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.5648784041404724,
+        "speaker": null
+    },
+    {
+        "text": "You can also increase your YouTube playback speed, by the way, if you're looking for more performance on that.",
+        "start": 85765,
+        "end": 90562,
+        "sentiment": "POSITIVE",
+        "confidence": 0.5899617075920105,
+        "speaker": null
+    },
+    {
+        "text": "I mean, come on, are we really just going to sit around here and talk about iPhones for the next ten minutes?",
+        "start": 90625,
+        "end": 95600,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.7197062969207764,
+        "speaker": null
+    },
+    {
+        "text": "Who even cares, you guys?",
+        "start": 97537,
+        "end": 98887,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.8331311941146851,
+        "speaker": null
+    },
+    {
+        "text": "It's just a stupid phone and it's like you might as well talk about your laundry machine or your hair blower.",
+        "start": 98950,
+        "end": 103902,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.9562132358551025,
+        "speaker": null
+    },
+    {
+        "text": "In fact, let's just cut to the chaser.",
+        "start": 104007,
+        "end": 105777,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8149937987327576,
+        "speaker": null
+    },
+    {
+        "text": "I'll save you all some time.",
+        "start": 105807,
+        "end": 106672,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5833351016044617,
+        "speaker": null
+    },
+    {
+        "text": "Let's see how much this cost.",
+        "start": 106705,
+        "end": 107722,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6052954792976379,
+        "speaker": null
+    },
+    {
+        "text": "iPhone 13 pro.",
+        "start": 107755,
+        "end": 108622,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5682210326194763,
+        "speaker": null
+    },
+    {
+        "text": "$1,000.",
+        "start": 108655,
+        "end": 109942,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6659985184669495,
+        "speaker": null
+    },
+    {
+        "text": "I'm not doing it.",
+        "start": 110140,
+        "end": 111322,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.7800287008285522,
+        "speaker": null
+    },
+    {
+        "text": "I'm not doing that.",
+        "start": 111430,
+        "end": 112132,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.6323434114456177,
+        "speaker": null
+    },
+    {
+        "text": "I'm not going to drop $1,000 on the phone I don't need.",
+        "start": 112135,
+        "end": 114922,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.8790230751037598,
+        "speaker": null
+    },
+    {
+        "text": "So anything else here?",
+        "start": 115030,
+        "end": 116317,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7915047407150269,
+        "speaker": null
+    },
+    {
+        "text": "Anything else interesting?",
+        "start": 116365,
+        "end": 117307,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.68013596534729,
+        "speaker": null
+    },
+    {
+        "text": "iPhone 13.",
+        "start": 117385,
+        "end": 118122,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.782248318195343,
+        "speaker": null
+    },
+    {
+        "text": "This is a weaker model.",
+        "start": 118167,
+        "end": 119302,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.566349983215332,
+        "speaker": null
+    },
+    {
+        "text": "$800 for the iPhone 13, 700 for the iPhone 13 Mini.",
+        "start": 119395,
+        "end": 124017,
+        "sentiment": "POSITIVE",
+        "confidence": 0.5995559692382812,
+        "speaker": null
+    },
+    {
+        "text": "Yes, it's too expensive.",
+        "start": 124152,
+        "end": 125547,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.8243018388748169,
+        "speaker": null
+    },
+    {
+        "text": "So maybe wait for some price drops.",
+        "start": 125667,
+        "end": 127392,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8749536275863647,
+        "speaker": null
+    },
+    {
+        "text": "Nothing actionable right now.",
+        "start": 127452,
+        "end": 128872,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.6375660300254822,
+        "speaker": null
+    },
+    {
+        "text": "Let's just stay calm.",
+        "start": 128905,
+        "end": 130272,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5200830101966858,
+        "speaker": null
+    },
+    {
+        "text": "I'm sure that your current phone works just fine as is.",
+        "start": 130317,
+        "end": 133612,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8841228485107422,
+        "speaker": null
+    },
+    {
+        "text": "If your phone is broken, maybe pick up an older model like an iPhone eleven or a pixel five A and call it a day.",
+        "start": 133675,
+        "end": 140377,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5591918230056763,
+        "speaker": null
+    },
+    {
+        "text": "Or if you're rich like me, and if you think you're better than me, then sure, maybe you could go pick up one of these phones.",
+        "start": 140470,
+        "end": 146532,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5368865728378296,
+        "speaker": null
+    },
+    {
+        "text": "But I highly doubt that even you are richer than me.",
+        "start": 146547,
+        "end": 149347,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.48971521854400635,
+        "speaker": null
+    },
+    {
+        "text": "Or that you're better than me.",
+        "start": 149380,
+        "end": 150622,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5743264555931091,
+        "speaker": null
+    },
+    {
+        "text": "You can try to be, you can try to one up me next time we're at the bar and you pull out your fancy iPhone 13 Pro.",
+        "start": 150655,
+        "end": 157207,
+        "sentiment": "POSITIVE",
+        "confidence": 0.547469437122345,
+        "speaker": null
+    },
+    {
+        "text": "And I'm still using like an older model phone.",
+        "start": 157285,
+        "end": 159727,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7259794473648071,
+        "speaker": null
+    },
+    {
+        "text": "You can try to one up me, but it's only going to cost you further imposter syndrome.",
+        "start": 159820,
+        "end": 163842,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.7803325653076172,
+        "speaker": null
+    },
+    {
+        "text": "You know you're not as good, right?",
+        "start": 163902,
+        "end": 165997,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.747857391834259,
+        "speaker": null
+    },
+    {
+        "text": "You're not as good as me.",
+        "start": 166030,
+        "end": 167257,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.7761310935020447,
+        "speaker": null
+    },
+    {
+        "text": "A lot of people tried to beat the tech lead.",
+        "start": 167335,
+        "end": 169522,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5680721402168274,
+        "speaker": null
+    },
+    {
+        "text": "That's the thing.",
+        "start": 169630,
+        "end": 170437,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5897374153137207,
+        "speaker": null
+    },
+    {
+        "text": "People think they can step up.",
+        "start": 170500,
+        "end": 172117,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6125717759132385,
+        "speaker": null
+    },
+    {
+        "text": "They try, they fail.",
+        "start": 172165,
+        "end": 173547,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.6432033181190491,
+        "speaker": null
+    },
+    {
+        "text": "They end up getting themselves fired for taking on way too much responsibility, trying to fill shoes that they cannot fill.",
+        "start": 173592,
+        "end": 180382,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.9126006960868835,
+        "speaker": null
+    },
+    {
+        "text": "They realize just how far ahead I truly am.",
+        "start": 180460,
+        "end": 183800,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8611141443252563,
+        "speaker": null
+    },
+    {
+        "text": "Now, if you excuse me, I need to check my cryptocurrency.",
+        "start": 184237,
+        "end": 188337,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7115647196769714,
+        "speaker": null
+    },
+    {
+        "text": "So let's take a look at the markets today.",
+        "start": 188412,
+        "end": 190177,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8989285826683044,
+        "speaker": null
+    },
+    {
+        "text": "Now, the interesting thing that happened today is that Solana crazy stuff.",
+        "start": 190270,
+        "end": 194392,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8979634046554565,
+        "speaker": null
+    },
+    {
+        "text": "Solana shut down today centralization.",
+        "start": 194440,
+        "end": 196797,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6811407804489136,
+        "speaker": null
+    },
+    {
+        "text": "Oh yeah, solana has been down for hours due to resource exhaustion.",
+        "start": 196917,
+        "end": 200622,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.9041380286216736,
+        "speaker": null
+    },
+    {
+        "text": "And so now you can see that if I'm trying to access my salona wallet, it says here we're unable to connect to Solana.",
+        "start": 200667,
+        "end": 206817,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.7785394787788391,
+        "speaker": null
+    },
+    {
+        "text": "And the reason for that is that the Solana developers decided to just shut down the blockchain so that they can do some improvements on it.",
+        "start": 206877,
+        "end": 214357,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6898878216743469,
+        "speaker": null
+    },
+    {
+        "text": "Well, how can you shut down the blockchain?",
+        "start": 214435,
+        "end": 216477,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.491014301776886,
+        "speaker": null
+    },
+    {
+        "text": "I thought that this was supposed to be decentralized.",
+        "start": 216507,
+        "end": 218667,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6735026836395264,
+        "speaker": null
+    },
+    {
+        "text": "And so Salana is down 6% today.",
+        "start": 218727,
+        "end": 220762,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.6296668648719788,
+        "speaker": null
+    },
+    {
+        "text": "And this may be perhaps truly shows how little we understand about cryptocurrency technologies.",
+        "start": 220825,
+        "end": 226482,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.4828129708766937,
+        "speaker": null
+    },
+    {
+        "text": "They tell us that it is decentralized.",
+        "start": 226572,
+        "end": 228687,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8144108057022095,
+        "speaker": null
+    },
+    {
+        "text": "Is it really?",
+        "start": 228762,
+        "end": 229702,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7581619024276733,
+        "speaker": null
+    },
+    {
+        "text": "Now, million token recently bridged over to Solana and you can trade on it.",
+        "start": 229870,
+        "end": 234457,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8364228010177612,
+        "speaker": null
+    },
+    {
+        "text": "It's like not every blockchain is going to be purely fantastic.",
+        "start": 234535,
+        "end": 237897,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.49138325452804565,
+        "speaker": null
+    },
+    {
+        "text": "Salana, I'm sure probably they're going to recover and it's still going to do fine.",
+        "start": 237942,
+        "end": 241552,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8274669051170349,
+        "speaker": null
+    },
+    {
+        "text": "But million token, you can trade it on salona.",
+        "start": 241645,
+        "end": 243882,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8905309438705444,
+        "speaker": null
+    },
+    {
+        "text": "You can also trade it on three other blockchains ethereum, binance, smart chain, and polygonmatic.",
+        "start": 243897,
+        "end": 249057,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.698711633682251,
+        "speaker": null
+    },
+    {
+        "text": "And there will be more coming in as well.",
+        "start": 249147,
+        "end": 250957,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8232065439224243,
+        "speaker": null
+    },
+    {
+        "text": "And I think that's the general idea for a million token is that it is this social media driven cryptocurrency that is almost blockchain agnostic.",
+        "start": 251035,
+        "end": 258507,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7254505753517151,
+        "speaker": null
+    },
+    {
+        "text": "It's bridge to so many different blockchains that you'll be able to just trade it wherever you feel comfortable.",
+        "start": 258597,
+        "end": 263217,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6271027326583862,
+        "speaker": null
+    },
+    {
+        "text": "And yet across all of these blockchains, it is that same million token.",
+        "start": 263277,
+        "end": 267027,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7416719794273376,
+        "speaker": null
+    },
+    {
+        "text": "1 million total fixed supply, the most famous social media driven cryptocurrency.",
+        "start": 267132,
+        "end": 272202,
+        "sentiment": "POSITIVE",
+        "confidence": 0.5396189093589783,
+        "speaker": null
+    },
+    {
+        "text": "Check it out.",
+        "start": 272307,
+        "end": 272872,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8134521842002869,
+        "speaker": null
+    },
+    {
+        "text": "Milliontoken.org.",
+        "start": 272905,
+        "end": 274452,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8130316138267517,
+        "speaker": null
+    },
+    {
+        "text": "And so the official Solana Twitter account says that the main net beta is experiencing intermittent instability.",
+        "start": 274557,
+        "end": 280557,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5017533302307129,
+        "speaker": null
+    },
+    {
+        "text": "Investigating the issue, but essentially there has been resource exhaustion.",
+        "start": 280722,
+        "end": 284832,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.5784308314323425,
+        "speaker": null
+    },
+    {
+        "text": "Exhaustion of what?",
+        "start": 284922,
+        "end": 285847,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5032186508178711,
+        "speaker": null
+    },
+    {
+        "text": "Resource.",
+        "start": 285880,
+        "end": 286332,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5152234435081482,
+        "speaker": null
+    },
+    {
+        "text": "Specifically manpower, resource, energy, resource.",
+        "start": 286422,
+        "end": 289812,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7862576246261597,
+        "speaker": null
+    },
+    {
+        "text": "Food resources.",
+        "start": 289887,
+        "end": 291057,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7588315606117249,
+        "speaker": null
+    },
+    {
+        "text": "Do people need more food?",
+        "start": 291147,
+        "end": 292582,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5493054986000061,
+        "speaker": null
+    },
+    {
+        "text": "iPhone resources.",
+        "start": 292660,
+        "end": 293652,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6886014938354492,
+        "speaker": null
+    },
+    {
+        "text": "Do we need more iPhones?",
+        "start": 293682,
+        "end": 295047,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7890075445175171,
+        "speaker": null
+    },
+    {
+        "text": "Because everybody was watching the Apple event and everybody wants an iPhone 13 Pro now.",
+        "start": 295167,
+        "end": 299827,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9275107979774475,
+        "speaker": null
+    },
+    {
+        "text": "Is that the reason why?",
+        "start": 299845,
+        "end": 300907,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7866995334625244,
+        "speaker": null
+    },
+    {
+        "text": "And going back to iPhone, you know what I think we have such an obsession about iPhones is that the very first iPhone that launched probably truly was magical and it stunned the world and it became this revolutionary thing.",
+        "start": 300985,
+        "end": 313747,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8693938851356506,
+        "speaker": null
+    },
+    {
+        "text": "And so ever since then, we have come back to these iPhone events, hoping to recapture that magic, to be stunned yet again by something revolutionary that would change the world.",
+        "start": 313780,
+        "end": 323572,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8355038166046143,
+        "speaker": null
+    },
+    {
+        "text": "But the fact is, we've just been disappointed year after year after year.",
+        "start": 323680,
+        "end": 327817,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.9607374668121338,
+        "speaker": null
+    },
+    {
+        "text": "Maybe that first time was just this lucky break from Apple.",
+        "start": 327865,
+        "end": 330627,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7038908004760742,
+        "speaker": null
+    },
+    {
+        "text": "But the competition is mostly caught up by now, and there's so many other great phones, laptops, and equipment from other manufacturers that the innovation is not only in Apple's court these days.",
+        "start": 330657,
+        "end": 341257,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8468464612960815,
+        "speaker": null
+    },
+    {
+        "text": "Let's talk about Cardano.",
+        "start": 341335,
+        "end": 342732,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8925732970237732,
+        "speaker": null
+    },
+    {
+        "text": "Cardano's also had exciting news just yesterday.",
+        "start": 342822,
+        "end": 345387,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9499460458755493,
+        "speaker": null
+    },
+    {
+        "text": "They launched smart contracts with the Alonso Hard fork.",
+        "start": 345462,
+        "end": 348852,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7170442938804626,
+        "speaker": null
+    },
+    {
+        "text": "And so now you'll be able to do D file on Cardano, supposedly.",
+        "start": 348882,
+        "end": 352962,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7862339019775391,
+        "speaker": null
+    },
+    {
+        "text": "Although apparently Cardano dropped ten to 15% over the past five days or so.",
+        "start": 353037,
+        "end": 358507,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6400434374809265,
+        "speaker": null
+    },
+    {
+        "text": "And people are wondering, where are the DFPS?",
+        "start": 358585,
+        "end": 360897,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6868380308151245,
+        "speaker": null
+    },
+    {
+        "text": "Where are the developers?",
+        "start": 360942,
+        "end": 361902,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7301666736602783,
+        "speaker": null
+    },
+    {
+        "text": "The Hard forecast launch, we've got smart contracts now where are the applications for this stuff?",
+        "start": 361932,
+        "end": 366142,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.725313127040863,
+        "speaker": null
+    },
+    {
+        "text": "Who's using this?",
+        "start": 366190,
+        "end": 367177,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7842399477958679,
+        "speaker": null
+    },
+    {
+        "text": "And here's the answer, you guys.",
+        "start": 367270,
+        "end": 368572,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7444958090782166,
+        "speaker": null
+    },
+    {
+        "text": "If you were to go to the Cardano developer forms, you will see that the dev forms are pretty much dead, right?",
+        "start": 368605,
+        "end": 374302,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.7200241088867188,
+        "speaker": null
+    },
+    {
+        "text": "In the past 12 hours, there's been like, I don't know, ten posts or so, and that's about it.",
+        "start": 374395,
+        "end": 379912,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7409533262252808,
+        "speaker": null
+    },
+    {
+        "text": "And people just aren't really talking on there.",
+        "start": 379975,
+        "end": 381997,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.7195878028869629,
+        "speaker": null
+    },
+    {
+        "text": "There's not that much activity on here.",
+        "start": 382030,
+        "end": 384382,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5876172780990601,
+        "speaker": null
+    },
+    {
+        "text": "And, you know, I was digging around Cardano as well.",
+        "start": 384460,
+        "end": 386752,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.832404613494873,
+        "speaker": null
+    },
+    {
+        "text": "I was going through their website in my past video.",
+        "start": 386770,
+        "end": 389122,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8840072154998779,
+        "speaker": null
+    },
+    {
+        "text": "I said that Cardano may be slightly vapourware.",
+        "start": 389155,
+        "end": 391857,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7545292973518372,
+        "speaker": null
+    },
+    {
+        "text": "And the reason I say this is if you dig around Cardano looking for ways to start deploying your applications, it's not like Ethereum, where there's like a thermal remix virtual machines where you can just start deploying stuff under the test net.",
+        "start": 391947,
+        "end": 404422,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.654867947101593,
+        "speaker": null
+    },
+    {
+        "text": "But Cardano is just full of documentation and nowhere do I see really this place where I can deploy anything.",
+        "start": 404455,
+        "end": 411607,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.5000971555709839,
+        "speaker": null
+    },
+    {
+        "text": "The language is also functional programming based on Haskell, which unfortunately, many developers are not super familiar with.",
+        "start": 411760,
+        "end": 418522,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.5602549314498901,
+        "speaker": null
+    },
+    {
+        "text": "It's a kind of shift in the mental model of programming, unlike, say, C Plus, Plus, JavaScript, Java, Python, or any of the standard imperative programming languages.",
+        "start": 418555,
+        "end": 427872,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.687799334526062,
+        "speaker": null
+    },
+    {
+        "text": "And so I would say part of the problems currently facing Cardano is that you need the developers to get on board.",
+        "start": 427992,
+        "end": 433492,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.6647245287895203,
+        "speaker": null
+    },
+    {
+        "text": "And a lot of companies like Apple, Microsoft have understood, and they need to make their website more developer friendly.",
+        "start": 433615,
+        "end": 439752,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7873625159263611,
+        "speaker": null
+    },
+    {
+        "text": "Currently, it feels quite esoteric with a lot of code names.",
+        "start": 439782,
+        "end": 443532,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.5150979161262512,
+        "speaker": null
+    },
+    {
+        "text": "You've got Plutus, Marlowe, Rosetta, Gogon, Alonso, and all of these code names that takes a while for developers to really understand.",
+        "start": 443622,
+        "end": 451252,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.48162841796875,
+        "speaker": null
+    },
+    {
+        "text": "And where are the developer playgrounds?",
+        "start": 451345,
+        "end": 453912,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6253249645233154,
+        "speaker": null
+    },
+    {
+        "text": "Is this it?",
+        "start": 454062,
+        "end": 455182,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7529650330543518,
+        "speaker": null
+    },
+    {
+        "text": "Maybe this is it.",
+        "start": 455335,
+        "end": 456622,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.765180766582489,
+        "speaker": null
+    },
+    {
+        "text": "So, yeah, some of this Cardano code, it just looks more complicated than I would have expected, which makes me less bullish than I originally would have been.",
+        "start": 456730,
+        "end": 464437,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.827695369720459,
+        "speaker": null
+    },
+    {
+        "text": "But I'm sure they'll figure it out with time.",
+        "start": 464500,
+        "end": 466627,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5418370366096497,
+        "speaker": null
+    },
+    {
+        "text": "Now, meanwhile, I was browsing the million token discord.",
+        "start": 466720,
+        "end": 469542,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8184412717819214,
+        "speaker": null
+    },
+    {
+        "text": "Check out this hilarious meme I found.",
+        "start": 469602,
+        "end": 471487,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9253713488578796,
+        "speaker": null
+    },
+    {
+        "text": "You've got Jack Dorsey here reading this book on how to defy with Bitcoin, and he realizes he needs to wrap bitcoin and use it in ethereum.",
+        "start": 471550,
+        "end": 478707,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7700937390327454,
+        "speaker": null
+    },
+    {
+        "text": "And so this is really why Million Token is so far ahead.",
+        "start": 478797,
+        "end": 481537,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8482085466384888,
+        "speaker": null
+    },
+    {
+        "text": "Once the rest of the world finally catches up and understands the technological limitations with their blockchains and their cryptocurrencies finally realized that the answer they were looking for was here right along.",
+        "start": 481600,
+        "end": 493507,
+        "sentiment": "POSITIVE",
+        "confidence": 0.5661712884902954,
+        "speaker": null
+    },
+    {
+        "text": "And that answer would be me.",
+        "start": 493660,
+        "end": 495517,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7309191823005676,
+        "speaker": null
+    },
+    {
+        "text": "That's right.",
+        "start": 495640,
+        "end": 496222,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5689783096313477,
+        "speaker": null
+    },
+    {
+        "text": "I would be the answer to their life.",
+        "start": 496255,
+        "end": 498622,
+        "sentiment": "POSITIVE",
+        "confidence": 0.5606673955917358,
+        "speaker": null
+    },
+    {
+        "text": "Or rather my Million Token would be the answer.",
+        "start": 498730,
+        "end": 501742,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8258084654808044,
+        "speaker": null
+    },
+    {
+        "text": "Because it would be this social media driven cryptocurrency that would be really platformed blockchain technology agnostic just bridged across four different blockchains more in the future.",
+        "start": 501865,
+        "end": 513112,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6230546832084656,
+        "speaker": null
+    },
+    {
+        "text": "And all of these blockchains will have various pros and cons.",
+        "start": 513250,
+        "end": 515917,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7791436314582825,
+        "speaker": null
+    },
+    {
+        "text": "But it is really only a defy token that will be able to transcend individual blockchains and benefit from the advances in every single blockchain technology out there, current and future to come.",
+        "start": 515965,
+        "end": 527617,
+        "sentiment": "POSITIVE",
+        "confidence": 0.801397979259491,
+        "speaker": null
+    },
+    {
+        "text": "So to summarize, to recap, I thought we would bring our discussion back to Apple iPhone 13 without you guys.",
+        "start": 527740,
+        "end": 535522,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.51788729429245,
+        "speaker": null
+    },
+    {
+        "text": "And pretty soon after that we'll have iPhone 14 and an iPhone 15.",
+        "start": 535555,
+        "end": 539272,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8220646381378174,
+        "speaker": null
+    },
+    {
+        "text": "Okay?",
+        "start": 539455,
+        "end": 540157,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7123859524726868,
+        "speaker": null
+    },
+    {
+        "text": "So that's what you need to know about.",
+        "start": 540310,
+        "end": 542017,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8045435547828674,
+        "speaker": null
+    },
+    {
+        "text": "That too expensive right now.",
+        "start": 542065,
+        "end": 544087,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.8509652018547058,
+        "speaker": null
+    },
+    {
+        "text": "It's just too expensive.",
+        "start": 544225,
+        "end": 545292,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.8987442255020142,
+        "speaker": null
+    },
+    {
+        "text": "You guys, if I can't afford it, then you can't either.",
+        "start": 545352,
+        "end": 547912,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.7475510239601135,
+        "speaker": null
+    },
+    {
+        "text": "And that's really all you need to know.",
+        "start": 548050,
+        "end": 549817,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.740207850933075,
+        "speaker": null
+    },
+    {
+        "text": "So I hope you enjoyed the video.",
+        "start": 549940,
+        "end": 551122,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9729855060577393,
+        "speaker": null
+    },
+    {
+        "text": "If you did, please give a like and subscribe and I'll see you in the next one.",
+        "start": 551155,
+        "end": 554272,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7300533652305603,
+        "speaker": null
+    },
+    {
+        "text": "Thanks, bye.",
+        "start": 554305,
+        "end": 554787,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.4829849302768707,
+        "speaker": null
+    }
+]

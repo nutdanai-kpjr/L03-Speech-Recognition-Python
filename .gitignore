@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Orginal Work
+python-speech-recognition-course-main/ 
+#https://www.youtube.com/watch?v=mYUyaKmvu6Y
+secret_api_key.py
+# Secret API Key ( AssemblyAI,Listenotes,OpenAI)
